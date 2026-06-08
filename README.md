@@ -109,8 +109,8 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [deeprajojha2022@gmail.com](mailto:deeprajojha2022@gmail.com)
-* 💼 LinkedIn: Your LinkedIn URL
-* 🌐 Portfolio: Your Portfolio URL
+* 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/deepraj-ojha/)
+* 🌐 Portfolio: [Your Portfolio URL](https://my-portfolio-beta-seven-95.vercel.app/)
 * 🐙 GitHub: https://github.com/Deeprajojha1
 
 ---
